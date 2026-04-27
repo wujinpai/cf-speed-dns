@@ -13,10 +13,10 @@ import os
 import requests
 
 # API 配置
-CF_API_TOKEN = os.environ.get("CF_API_TOKEN")
-CF_ZONE_ID = os.environ.get("CF_ZONE_ID")
-CF_DNS_NAME = os.environ.get("CF_DNS_NAME")
-PUSHPLUS_TOKEN = os.environ.get("PUSHPLUS_TOKEN")
+CF_API_TOKEN = os.environ.get("cfut_PDkKAu7HVitDd3RR401jhY32EDZ5XrjorcNCfl4Geec931bd")
+CF_ZONE_ID = os.environ.get("7f76fdf04901139567c0d9e4b0ba44dd")
+CF_DNS_NAME = os.environ.get("openlist.gii.cn")
+PUSHPLUS_TOKEN = os.environ.get("2e12bdfb5ffc440587e20c08b3c77875")
 
 # 请求头
 HEADERS = {
